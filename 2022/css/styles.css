@@ -30,7 +30,7 @@ Table Of Contents:
 
 /*****************************************
 Colors:
-- Backgrounds, buttons, bullets, icons - blue #4D7EEE
+- Backgrounds, buttons, bullets, icons - blue #5f4dee
 - Backgrounds, light button, light body text - light gray #f3f7fd
 - Headings text - black #333
 - Body text - dark gray #555
@@ -100,7 +100,7 @@ h6 {
 }
 
 .above-heading {
-	color: #4D7EEE;
+	color: #5f4dee;
 	font: 700 0.75rem/0.875rem "Open Sans", sans-serif;
 	text-align: center;
 }
@@ -149,15 +149,15 @@ a.white {
 }
 
 .blue {
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #4D7EEE;
+	border: 0.125rem solid #5f4dee;
 	border-radius: 2rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
@@ -166,16 +166,16 @@ a.white {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #4D7EEE;
+	border: 0.125rem solid #5f4dee;
 	border-radius: 2rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
@@ -184,24 +184,24 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 	text-decoration: none;
 }
 
 .btn-outline-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #4D7EEE;
+	border: 0.125rem solid #5f4dee;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-reg:hover {
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	text-decoration: none;
 }
@@ -209,17 +209,17 @@ a.white {
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #4D7EEE;
+	border: 0.125rem solid #5f4dee;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-lg:hover {
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	text-decoration: none;
 }
@@ -227,17 +227,17 @@ a.white {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 0.875rem 1.5rem 0.875rem 1.5rem;
-	border: 0.125rem solid #4D7EEE;
+	border: 0.125rem solid #5f4dee;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-sm:hover {
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	text-decoration: none;
 }
@@ -385,9 +385,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 1px solid #4D7EEE;
+	border: 1px solid #5f4dee;
 	border-radius: 1.5rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	cursor: pointer;
@@ -396,7 +396,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 /* Form Success And Error Message Formatting */
@@ -662,7 +662,7 @@ div.desc {
 	width: 1rem;
 	height: 1rem;
 	border-radius: 100%;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 	animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 }
@@ -699,7 +699,7 @@ div.desc {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -764,7 +764,7 @@ div.desc {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 }
 
 .navbar-custom .dropdown-item {
@@ -775,7 +775,7 @@ div.desc {
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	color: #fff;
 	opacity: 1;
 }
@@ -800,7 +800,7 @@ div.desc {
 
 .navbar-custom .nav-item .btn-outline-sm:hover {
 	background-color: #fff;
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 .navbar-custom .navbar-toggler {
@@ -832,7 +832,7 @@ div.desc {
 /*    04. Header     */
 /*********************/
 .header {
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 }
 
 .header .header-content {
@@ -868,7 +868,7 @@ div.desc {
 	margin-left: 0.5rem;
 	border-color: #f3f7fd;
 	background-color: #f3f7fd;
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 .header .btn-solid-lg:hover {
@@ -883,7 +883,7 @@ div.desc {
 
 .header .btn-outline-lg:hover {
 	background-color: #f3f7fd;
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 .header-frame {
@@ -979,7 +979,7 @@ div.desc {
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
 	background: transparent;
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 .tabs .nav-link .fas {
@@ -991,7 +991,7 @@ div.desc {
 }
 
 .tabs .list-unstyled .fas {
-	color: #4D7EEE;
+	color: #5f4dee;
 	font-size: 0.5rem;
 	line-height: 1.625rem;
 }
@@ -1059,7 +1059,7 @@ div.desc {
 	margin-bottom: 0.875rem;
 	margin-left: 0;
 	border: 0;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	text-align: left;
 }
 
@@ -1068,7 +1068,7 @@ div.desc {
 }
 
 .lightbox-basic .list-unstyled .fas {
-	color:#4D7EEE;
+	color:#5f4dee;
 	font-size: 0.5rem;
 	line-height: 1.625rem;
 }
@@ -1092,7 +1092,7 @@ div.desc {
 }
 
 .lightbox-basic .btn-solid-reg.mfp-close:hover {
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 /* end of signup Button */
 
@@ -1102,7 +1102,7 @@ div.desc {
 	width: auto;
 	height: auto;
 	margin-left: 0.375rem;
-	color: #4D7EEE;
+	color: #5f4dee;
 	opacity: 1;
 }
 
@@ -1138,7 +1138,7 @@ div.desc {
 }
 
 .basic-1 .list-unstyled .fas {
-	color: #4D7EEE;
+	color: #5f4dee;
 	font-size: 0.5rem;
 	line-height: 1.625rem;
 }
@@ -1197,7 +1197,7 @@ div.desc {
 	width: 4.75rem;
 	height: 4.75rem;
 	border-radius: 50%;
-	background: #4D7EEE;
+	background: #5f4dee;
 	animation: pulse-border 1500ms ease-out infinite;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1214,7 +1214,7 @@ div.desc {
 	width: 4.375rem;
 	height: 4.375rem;
 	border-radius: 50%;
-	background: #4D7EEE;
+	background: #5f4dee;
 	transition: all 200ms;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1280,7 +1280,7 @@ div.desc {
 
 .cards-2 .card .card-title {
 	margin-bottom: 0.5rem;
-	color: #4D7EEE;
+	color: #5f4dee;
 	font: 700 1.125rem/1.5rem "Open Sans", sans-serif;
 }
 
@@ -1321,7 +1321,7 @@ div.desc {
 }
 
 .cards-2 .card .list-unstyled .fas {
-	color: #4D7EEE;
+	color: #5f4dee;
 	font-size: 0.875rem;
 	line-height: 1.625rem;
 }
@@ -1435,12 +1435,12 @@ div.desc {
 }
 
 .form .fa-stack .fa-stack-2x {
-	color: #4D7EEE;
+	color: #5f4dee;
 	transition: all 0.2s ease;
 }
 
 .form .fa-stack:hover .fa-stack-1x {
-	color: #4D7EEE;
+	color: #5f4dee;
 }
 
 .form .fa-stack:hover .fa-stack-2x {
@@ -1459,7 +1459,7 @@ div.desc {
 .footer {
 	padding-top: 3rem;
 	padding-bottom: 0.5rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 }
 
 .footer .footer-col {
@@ -1508,7 +1508,7 @@ div.desc {
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 0.375rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	text-align: center;
 }
 
@@ -1552,7 +1552,7 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	text-align: center;
 }
 
@@ -1610,7 +1610,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-	color: #4D7EEE;
+	color: #5f4dee;
 	font-size: 0.5rem;
 	line-height: 1.625rem;
 }
@@ -1639,7 +1639,7 @@ a:hover.back-to-top {
 /****************************************/
 .ex-2-header {
 	padding-top: 9rem;
-	background-color: #4D7EEE;
+	background-color: #5f4dee;
 	text-align: center;
 	min-height: 100vh;
 }
@@ -1799,7 +1799,7 @@ a:hover.back-to-top {
 
 	.navbar-custom.top-nav-collapse {
         padding: 0.5rem 1.5rem 0.5rem 2rem;
-		background-color: #4D7EEE;
+		background-color: #5f4dee;
 		box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	}
 
@@ -1906,7 +1906,7 @@ a:hover.back-to-top {
 
 	.tabs .nav-link:hover,
 	.tabs .nav-link.active {
-		border-bottom: 2px solid #4D7EEE;
+		border-bottom: 2px solid #5f4dee;
 	}
 
 	.tabs .image-container {
@@ -2199,6 +2199,7 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
 
 
 .box {
